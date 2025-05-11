@@ -1,4 +1,4 @@
-# roadmap.py
+
 roadmaps = {
     "Idea": ["Validate idea", "Talk to users", "Build Lean Canvas"],
     "MVP": ["Build prototype", "Get feedback", "Iterate"],
