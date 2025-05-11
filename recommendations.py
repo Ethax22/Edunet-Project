@@ -1,4 +1,4 @@
-# recommendations.py
+
 resources = {
     "Idea": ["Lean Startup Book", "Startup School by YC"],
     "MVP": ["Figma tutorials", "No-code tools guide"],
